@@ -19,6 +19,13 @@ Esse projeto é um desafio da [Rocketseat](https://www.rocketseat.com.br/).
 - [x] Remover uma tarefa
 - [x] Marcar e desmarcar uma tarefa como concluída
 
+## Como rodar a aplicação
+
+1. Faça um clone do repositório na sua máquina.
+2. Execute o comando `yarn` na pasta raiz do projeto para instalar as dependências.
+3. Execute o comando `yarn start` para rodar o projeto.
+4. Acesse http://localhost:3000/ para acessar a aplicação.
+
 ---
 
 ✌
